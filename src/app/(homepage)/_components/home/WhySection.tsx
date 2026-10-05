@@ -12,7 +12,7 @@ export const WhySection = () => {
             Why Educators Choose Zedu
           </h1>
           <p className="max-w-[95%] text-sm text-neutral-600 sm:max-w-[90%] sm:text-base md:max-w-[85%] lg:max-w-[65%] lg:text-lg">
-            Built specifically for structured learning environments — not
+            Built specifically for structured learning environments, not for
             corporate teams or casual group chats.
           </p>
         </div>
