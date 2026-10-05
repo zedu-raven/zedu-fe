@@ -74,7 +74,7 @@ const philosophyCards = [
 const learningTeamCards = [
   {
     title: "Bootcamps",
-    desc: "Run structured cohorts with clear communication. Keep students engaged without the noise of traditional chat apps.",
+    desc: "Run structured cohorts with clear communication. Keep students engaged and focused, free from the noise of traditional chat apps.",
     Icon: BoardIcon,
   },
   {
