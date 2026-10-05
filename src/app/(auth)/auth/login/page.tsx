@@ -258,7 +258,7 @@ function Login() {
       <main className="w-full min-h-screen flex flex-col  items-center ">
         <div className="flex items-center justify-between w-full py-6 max-w-7xl px-4 sm:px-6 lg:px-8">
           <Link href="/">
-            <Image src="/Zedu.png" alt="" width={86} height={31} />
+            <Image src="/Zedu.png" alt="" width={86} height={31} style={{ width: "auto", height: "auto" }} />
           </Link>
           <div>
             Don't have an account?{" "}
@@ -289,6 +289,7 @@ function Login() {
                   src="/dashboard/google.svg"
                   width={24}
                   height={24}
+                  style={{ width: "auto", height: "auto" }}
                   alt="google"
                 />
                 <div className="text-[16px] font-[600] leading-[20.16px]">
