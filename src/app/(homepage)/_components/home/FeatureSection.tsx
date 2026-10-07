@@ -100,6 +100,7 @@ export const FeatureSection = () => {
                   height={35}
                   width={225}
                   priority
+                  style={{ width: "100%", height: "auto" }}
                   className="h-auto w-[190px] sm:w-[225px]"
                 />
               </div>
@@ -115,6 +116,7 @@ export const FeatureSection = () => {
                 height={306}
                 width={306}
                 priority
+                style={{ width: "100%", height: "auto" }}
                 className="h-auto w-full"
               />
             </div>
