@@ -1168,7 +1168,7 @@ The following are explicitly excluded from this PRD:
 
 | Domain        | Key Endpoints                                                                                                                                          |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Auth          | `/auth/sign-up`, `/auth/login`, `/auth/magick-link`, `/auth/password-reset`, `/auth/email-request/verify`, `/auth/onboard-status`                      |
+| Auth          | `/auth/sign-up`, `/auth/login`, `/auth/magiclink`, `/auth/forgot-password`, `/auth/reset-password`, `/auth/verify-account`, `/auth/autologin`, `/auth/onboard-status` |                     |
 | User          | `/profile`, `/users/me`, `/users/organisations`, `/users/switch-org/{slug}`                                                                            |
 | Organizations | `/organisations`, `/organisations/{id}`, `/organisations/{id}/users`, `/organisations/{id}/get-started`, `/organisations/{id}/notification-preference` |
 | Channels      | `/channels/{id}`, `/channels/{id}/messages`, `/channels/pin/{id}/thread`, `/threads/{id}`                                                              |
