@@ -21,7 +21,7 @@ export const FeatureSection = () => {
           </h1>
           <p className="max-w-[95%] text-sm text-neutral-600 sm:max-w-[90%] sm:text-base md:max-w-[85%] lg:max-w-[65%] lg:text-lg">
             From organized channels to AI-powered agents, Zedu brings
-            communication, collaboration, and automation into one seamless
+            communication, collaboration, and automation into one unified
             workspace.
           </p>
           <div>
